@@ -28,7 +28,7 @@ Discovered Insights such as:
 
 ## Step 3: Modeling
 Used a Sentence Transformer with a Random Forest Classification Head to classify sentiments
-<p align = 'center'> <img width="1200" img height= "400" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/classification_report.png"> </p>
+<p align = 'center'> <img width="500" img height= "200" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/classification_report.png"> </p>
 
 
 ## Step 4: Model Expainability 
