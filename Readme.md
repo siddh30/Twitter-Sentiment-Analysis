@@ -11,18 +11,17 @@ Features :- Entity, Tweet ID, Tweet and Sentiment (Positive, Negative, Neutral a
 ## Step 2: EDA
 Discovered Insights such as:
 
-Q1. What is the most common sentiment across all tweets?
-Attach an Image
-Most Tweets are of **Negative Sentiment**. Positve and Neutral Tweets closely follow.
+1. What is the most common sentiment across all tweets?
+   - Most Tweets are of **Negative Sentiment**. Positve and Neutral Tweets closely follow.
+<p align = 'center'> <img width="1500" img height= "400" alt="submission" src="https://github.com/siddh30/Digit_Recognizer-Kaggle_Competion/blob/main/Leaderboard-2022.png"> </p>
 
 
-Q2. What are the most commonly tweeted topics?
-Attach an Image
-Most Tweets revolve arround Gaming, Tech and Social Media in this DataSet
+2. What are the most commonly tweeted topics?
+   - Most Tweets revolve arround Gaming, Tech and Social Media in this DataSet
 
 
-Q3. Ten Most commonly talked about topics and their overall sentiment?
-Attach an Image
+3. Ten Most commonly talked about topics and their overall sentiment?
+   - Attach an Image
 
 
 ## Step 3: Modeling
@@ -31,4 +30,4 @@ Used a Sentence Transformer with a Random Forest Classification Head to classify
 
 ## Step 4: Model Expainability 
 Used Lime a Model Agnostic Explainer to explain word level impact on different classes of the model
-Attach Images
+   - Attach Images
