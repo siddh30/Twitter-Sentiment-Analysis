@@ -32,11 +32,11 @@ Used a Sentence Transformer with a Random Forest Classification Head to classify
 
 ## Step 4: Model Expainability 
 Used Lime a Model Agnostic Explainer to explain word level impact on different classes of the model
-<p align = 'center'> <img width="1200" img height= "300" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Negative.png"> </p>
+<p align = 'center'> <img width="1200" img height= "400" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Negative.png"> </p>
 
-<p align = 'center'> <img width="1200" img height= "300" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Positive.png"> </p>
+<p align = 'center'> <img width="1200" img height= "400" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Positive.png"> </p>
 
-<p align = 'center'> <img width="1200" img height= "300" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Neutral.png"> </p>
+<p align = 'center'> <img width="1200" img height= "400" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Neutral.png"> </p>
 
 
  
