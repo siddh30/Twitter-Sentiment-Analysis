@@ -17,11 +17,13 @@ Discovered Insights such as:
 
 
 2. What are the most commonly tweeted topics?
-   - Most Tweets revolve arround Gaming, Tech and Social Media in this DataSet
+   - Most Tweets revolve arround Gaming, Tech and Social Media in this Dataset
+   <p align = 'center'> <img width="800" img height= "500" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Entities.png"> </p>
 
 
 3. Ten Most commonly talked about topics and their overall sentiment?
-   - Attach an Image
+   <p align = 'center'> <img width="500" img height= "400" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Topicwise_Sentiment.png"> </p>
+
 
 
 ## Step 3: Modeling
@@ -30,4 +32,11 @@ Used a Sentence Transformer with a Random Forest Classification Head to classify
 
 ## Step 4: Model Expainability 
 Used Lime a Model Agnostic Explainer to explain word level impact on different classes of the model
-   - Attach Images
+<p align = 'center'> <img width="1000" img height= "400" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Negative.png"> </p>
+
+<p align = 'center'> <img width="1000" img height= "400" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Positive.png"> </p>
+
+<p align = 'center'> <img width="1000" img height= "400" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Neutral.png"> </p>
+
+
+ 
