@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis 
-A Mini Weekend Projects
+(A Mini Weekend Projects)
 
 Goal of the project : Understanding and Predicting Tweet Sentiments across various entities
  (topics)
