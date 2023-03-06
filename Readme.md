@@ -13,7 +13,7 @@ Discovered Insights such as:
 
 1. What is the most common sentiment across all tweets?
    - Most Tweets are of **Negative Sentiment**. Positve and Neutral Tweets closely follow.
-<p align = 'center'> <img width="1500" img height= "400" alt="submission" src="https://github.com/siddh30/Digit_Recognizer-Kaggle_Competion/blob/main/Leaderboard-2022.png"> </p>
+<p align = 'center'> <img width="800" img height= "500" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Overall_Sentiment.png"> </p>
 
 
 2. What are the most commonly tweeted topics?
