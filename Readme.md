@@ -1,17 +1,15 @@
-# Twitter Sentiment Analysis 
+# <p align = "center"> Twitter Sentiment Analysis 
 
-<img src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/twitter.png" width="350" >
+<p align = "center"> Pusblished code on Kaggle: https://www.kaggle.com/code/siddharthmandgi/twitter-sentiment-analysis/notebook </p>
 
+<p align = "center"> <img src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/twitter.png" width="350"> </p>
 
-
-
-## Project Goal
-Understanding and Predicting Tweet Sentiments across various entities
- (topics)
+## Project Overview
+In this project we understand and predicting Tweet Sentiments across various entities (topics) such as tech, gaming and social media. These Sentiments are categorized as 'Positive, 'Negative', 'Neutral' or 'Irrelevant'.
  
 ## Step 1: Data
 This is a Kaggle dataset (https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis) with two files training.csv and validation.csv
-Features :- Entity, Tweet ID, Tweet and Sentiment (Positive, Negative, Neutral and Irrelevant)
+Features :- Entity, Tweet ID, Tweet and Sentiment.
 
 ## Step 2: EDA
 Discovered Insights such as:
