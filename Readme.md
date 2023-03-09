@@ -4,7 +4,7 @@
 
 
 
-## Goal of this project
+## Goal project
 Understanding and Predicting Tweet Sentiments across various entities
  (topics)
  
