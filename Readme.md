@@ -1,10 +1,11 @@
 # Twitter Sentiment Analysis 
-<img src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/twitter.png" width="350">
+
+<img src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/twitter.png" width="350" >
 
 
 
 
-## Goal
+## Project Goal
 Understanding and Predicting Tweet Sentiments across various entities
  (topics)
  
