@@ -1,7 +1,11 @@
 # Twitter Sentiment Analysis 
-(A Mini Weekend Projects)
+<img src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/twitter.png" width="350">
 
-Goal of the project : Understanding and Predicting Tweet Sentiments across various entities
+
+
+
+## Goal of this project
+Understanding and Predicting Tweet Sentiments across various entities
  (topics)
  
 ## Step 1: Data
@@ -13,7 +17,7 @@ Discovered Insights such as:
 
 1. What is the most common sentiment across all tweets?
    - Most Tweets are of **Negative Sentiment**. Positve and Neutral Tweets closely follow.
-<p align = 'center'> <img width="800" img height= "500" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Overall_Sentiment.png"> </p>
+<p align = 'center'> <img width="800" img height= "500" alt="submission" src="https://github.com/siddh30/Twitter-Sentiment-Analysis/blob/main/images/Sentiment_distribution.png"> </p>
 
 
 2. What are the most commonly tweeted topics?
